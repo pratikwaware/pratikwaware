@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pratik Waware
-- 🏢 Software Engineer @ iProgrammer Solutions Pvt. Ltd. with 2.5+ years of experience.
+- 🏢 Software Engineer @ Western Union. with 3+ years of experience.
 - 👀 I’m interested in new tech.
-- 🌱 My current job profile is in Reactjs Development along with TypeScript, NextJS, Redux, etc...
+- 🌱 My current job profile is in Reactjs, ReactNative Development along with TypeScript, NextJS, Redux, etc...
 - 🌱 I’m currently learning GraphQL, tailwindCSS, Jest/Cypress etc...
 - 📫 How to reach me: pratikwaware919@gmail.com
 - 😉 Most part of my contribution graph is empty because the code i have written is on client's bitbucket.😊

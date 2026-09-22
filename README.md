@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pratik Waware
-- 🏢 Software Engineer @ Western Union. with 3+ years of experience.
+- 🏢 Software Engineer @ Western Union. with 4.5+ years of experience.
 - 👀 I’m interested in new tech.
 - 🌱 My current job profile is in Reactjs, ReactNative Development along with TypeScript, NextJS, Redux, etc...
 - 🌱 I’m currently learning GraphQL, tailwindCSS, Jest/Cypress etc...
